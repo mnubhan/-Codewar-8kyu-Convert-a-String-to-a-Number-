@@ -1,0 +1,10 @@
+// function for convert string to number
+
+const stringToNumber = function(str){
+
+//string is result of changing string to interger by using method "parseInt" 
+string = parseInt(str)
+
+//this function will return the value of string
+  return string;
+}
